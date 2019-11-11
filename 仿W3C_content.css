@@ -1,0 +1,475 @@
+.content{
+    width: 1225px;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+}
+.content .leftSidebar{
+    float: left;
+    height: 1890px;
+}
+.content .leftSidebar div ul li{
+    list-style: none;
+}
+.content .leftSidebar div ul li a{
+    text-decoration: none;
+    color: black;
+    font-size: 12px;
+    display: block;
+    line-height: 28px;
+}
+.content .leftSidebar .HTML教程{
+    width: 179px;
+    height: 202px;
+    overflow: hidden;
+}
+.content .leftSidebar .HTML教程 h4{
+    margin-left: 6px;
+    margin-top: 16px;
+}
+.content .leftSidebar .HTML教程 ul li{
+    text-indent: 14px;
+    height: 28px;
+    width: 170px;
+}
+.content .leftSidebar .HTML教程 ul li:hover{
+    background-color: #aaaaaa;
+}
+.content .leftSidebar .HTML教程 ul li:hover a{
+    color: white;
+}
+.content .leftSidebar .HTML教程 ul{
+    margin-top: 5px;
+}
+.content .leftSidebar .HTML教程 ul li a{
+    display: block;
+}
+
+.content .leftSidebar .浏览器脚本{
+    width: 179px;
+    height: 287px;
+}
+.content .leftSidebar .浏览器脚本 h4{
+    margin-left: 6px;
+    margin-top: 13px;
+}
+.content .leftSidebar .浏览器脚本 ul li{
+    text-indent: 14px;
+    height: 28px;
+    width: 170px;
+}
+.content .leftSidebar .浏览器脚本 ul li:hover{
+    background-color: #aaaaaa;
+}
+.content .leftSidebar .浏览器脚本 ul li:hover a{
+    color: white;
+}
+.content .leftSidebar .浏览器脚本 ul{
+    margin-top: 5px;
+}
+.content .leftSidebar .浏览器脚本 ul li a{
+    display: block;
+}
+
+.content .leftSidebar .服务器脚本{
+    width: 179px;
+    height: 174px;
+}
+.content .leftSidebar .服务器脚本 h4{
+    margin-left: 6px;
+    margin-top: 13px;
+}
+.content .leftSidebar .服务器脚本 ul li{
+    text-indent: 14px;
+    height: 28px;
+    width: 170px;
+}
+.content .leftSidebar .服务器脚本 ul li:hover{
+    background-color: #aaaaaa;
+}
+.content .leftSidebar .服务器脚本 ul li:hover a{
+    color: white;
+}
+.content .leftSidebar .服务器脚本 ul{
+    margin-top: 5px;
+}
+.content .leftSidebar .服务器脚本 ul li a{
+    display: block;
+}
+
+.content .leftSidebar .XML教程{
+    width: 179px;
+    height: 426px;
+}
+.content .leftSidebar .XML教程 h4{
+    margin-left: 6px;
+    margin-top: 13px;
+}
+.content .leftSidebar .XML教程 ul li{
+    text-indent: 14px;
+    height: 28px;
+    width: 170px;
+}
+.content .leftSidebar .XML教程 ul li:hover{
+    background-color: #aaaaaa;
+}
+.content .leftSidebar .XML教程 ul li:hover a{
+    color: white;
+}
+.content .leftSidebar .XML教程 ul{
+    margin-top: 5px;
+}
+.content .leftSidebar .XML教程 ul li a{
+    display: block;
+}
+
+.content .leftSidebar .WebServices{
+    width: 179px;
+    height: 175px;
+}
+.content .leftSidebar .WebServices h4{
+    margin-left: 6px;
+    margin-top: 13px;
+}
+.content .leftSidebar .WebServices ul li{
+    height: 28px;
+    text-indent: 14px;
+    width: 170px;
+}
+.content .leftSidebar .WebServices ul li:hover{
+    background-color: #aaaaaa;
+}
+.content .leftSidebar .WebServices ul li:hover a{
+    color: white;
+}
+.content .leftSidebar .WebServices ul{
+    margin-top: 5px;
+}
+.content .leftSidebar .WebServices ul li a{
+    display: block;
+}
+
+.content .leftSidebar .NET{
+    width: 179px;
+    height: 175px;
+}
+.content .leftSidebar .NET h4{
+    margin-left: 6px;
+    margin-top: 13px;
+}
+.content .leftSidebar .NET ul li{
+    text-indent: 14px;
+    height: 28px;
+    width: 170px;
+}
+.content .leftSidebar .NET ul li:hover a{
+    color: white;
+}
+.content .leftSidebar .NET ul li:hover{
+    background-color: #aaaaaa;
+}
+.content .leftSidebar .NET ul{
+    margin-top: 5px;
+}
+.content .leftSidebar .NET ul li a{
+    display: block;
+}
+
+.content .leftSidebar .建站手册{
+    width: 179px;
+    height: 259px;
+}
+.content .leftSidebar .建站手册 h4{
+    margin-left: 6px;
+    margin-top: 13px;
+}
+.content .leftSidebar .建站手册 ul li{
+    text-indent: 14px;
+    height: 28px;
+    width: 170px;
+}
+.content .leftSidebar .建站手册 ul li:hover{
+    background-color: #aaaaaa;
+}
+.content .leftSidebar .建站手册 ul li:hover a{
+    color: white;
+}
+.content .leftSidebar .建站手册 ul{
+    margin-top: 5px;
+}
+.content .leftSidebar .建站手册 ul li a{
+    display: block;
+}
+.content .leftSidebar .链接 ul li a{
+    font-size: 16px;
+    color: #0479a7;
+    font-weight: bold;
+    display: block;
+}
+.content .leftSidebar .链接 ul{
+    margin-left: 10px;
+    margin-top: 18px;
+    height: 96px;
+}
+.content .leftSidebar .链接 ul li{
+    margin-top: 15px;
+    text-indent: 14px;
+    width: 170px;
+}
+.content .leftSidebar .链接 ul li:hover{
+    text-decoration: underline;
+}
+.content .leftSidebar{
+    margin-top: 0px;
+    width: 170px;
+    border-left: 1px solid #e0e0e0;
+    border-right: 1px solid #e0e0e0;
+}
+
+
+.content .blank1{
+    overflow: hidden;
+}
+
+
+.content .rightSidebar{
+    border-left: 1px solid #e0e0e0;
+    border-right: 1px solid #e0e0e0;
+    float: right;
+    width: 170px;
+    overflow: hidden;
+    height: 1890px;
+}
+.content .rightSidebar .参考手册{
+    overflow: hidden;
+}
+.content .rightSidebar h4{
+    margin-top: 16px;
+    margin-left: 6px;
+}
+.content .rightSidebar ul{
+    margin-top: 12px;
+}
+.content .rightSidebar ul li{
+    list-style: none;
+    text-indent: 14px;
+    width: 200px;
+    text-indent: 14px;
+    height: 28px;
+    width: 170px;
+}
+.content .rightSidebar ul li a{
+    text-decoration: none;
+    font-size: 12px;
+    color: #900b09;
+    display: block;
+}
+.content .center{
+    width: 845px;
+    height: 1890px;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+}
+.content .center .centerContent1{
+    text-align: center;
+    margin-top: 65px;
+    border-bottom: 1px solid #aaaaaa;
+    padding-bottom: 20px;
+}
+.content .center .centerContent1 h2{
+    height: 48px;
+    line-height: 48px;
+    letter-spacing: 2px;
+}
+.content .center .centerContent1 p{
+    height: 35px;
+    line-height: 35px;
+    letter-spacing: 1px;
+}
+.content .center .centerContent1 h4{
+    height: 35px;
+    line-height: 35px;
+    font-weight: bold;
+}
+.content .center .centerContent2{
+    text-indent: 120px;
+    letter-spacing: 1px;
+    margin-top: 40px;
+    height: 154px;
+    border-bottom: 1px solid #aaaaaa;;
+    background: url(images/book.png) no-repeat 35px 30px;
+}
+.content .center .centerContent2 p:nth-child(2){
+    font-size: 15px;
+    height: 40px;
+    line-height: 48px;
+    letter-spacing: 1px;
+}
+.content .center .centerContent2 p:nth-child(3){
+    font-size: 15px;
+    height: 40px;
+    line-height: 44px;
+    letter-spacing: 1px;
+}
+
+.content .center .centerContent3{
+    text-indent: 120px;
+    letter-spacing: 1px;
+    margin-top: 40px;
+    height: 154px;
+    border-bottom: 1px solid #aaaaaa;;
+    background: url(images/computer.png) no-repeat 39px 20px;
+}
+.content .center .centerContent3 p:nth-child(2){
+    font-size: 15px;
+    height: 40px;
+    line-height: 48px;
+    letter-spacing: 1px;
+}
+.content .center .centerContent3 p:nth-child(3){
+    font-size: 15px;
+    height: 40px;
+    line-height: 44px;
+    letter-spacing: 1px;
+}
+
+.content .center .centerContent4{
+    text-indent: 120px;
+    letter-spacing: 1px;
+    margin-top: 40px;
+    height: 154px;
+    border-bottom: 1px solid #aaaaaa;;
+    background: url(images/blackboard.png) no-repeat 34px 20px;
+}
+.content .center .centerContent4 p:nth-child(2){
+    font-size: 15px;
+    height: 40px;
+    line-height: 48px;
+    letter-spacing: 1px;
+}
+.content .center .centerContent4 p:nth-child(3){
+    font-size: 15px;
+    height: 40px;
+    line-height: 44px;
+    letter-spacing: 1px;
+}
+
+.content .center .centerContent5{
+    text-indent: 120px;
+    letter-spacing: 1px;
+    margin-top: 40px;
+    height: 226px;
+    border-bottom: 1px solid #aaaaaa;;
+    background: url(images/head.png) no-repeat 30px 15px;
+}
+.content .center .centerContent5 p:nth-child(2){
+    font-size: 15px;
+    height: 40px;
+    line-height: 48px;
+    letter-spacing: 1px;
+}
+.content .center .centerContent5 p:nth-child(3){
+    font-size: 15px;
+    height: 40px;
+    line-height: 44px;
+    letter-spacing: 1px;
+}
+.content .center .centerContent5 p:nth-child(4){
+    font-size: 15px;
+    height: 40px;
+    line-height: 44px;
+    letter-spacing: 1px;
+}
+.content .center .centerContent5 p:nth-child(4) a{
+    color: #900b09;
+}
+.content .center .centerContent5 p:nth-child(4) a:hover{
+    color: #ff0000;
+}
+.content .center .centerContent5 p:nth-child(5) a{
+    color: #900b09;
+}
+.content .center .centerContent5 p:nth-child(5) a:hover{
+    color: #ff0000;
+}
+.content .center .centerContent5 p:nth-child(5){
+    font-size: 15px;
+    height: 40px;
+    line-height: 44px;
+    letter-spacing: 1px;
+}
+
+.content .center .centerContent6{
+    text-indent: 125px;
+    letter-spacing: 1px;
+    margin-top: 50px;
+    height: 160px;
+    border-bottom: 1px solid #aaaaaa;;
+    background: url(images/paper.png) no-repeat 30px 15px;
+}
+.content .center .centerContent6 p:nth-child(2) a{
+    font-size: 15px;
+    line-height: 60px;
+    letter-spacing: 1px;
+    color: #900b09;
+}
+.content .center .centerContent6 p:nth-child(2) a:hover{
+    color: #ff0000;
+}
+
+.content .center .centerContent7{
+    text-indent: 125px;
+    letter-spacing: 1px;
+    margin-top: 50px;
+    height: 160px;
+    border-bottom: 1px solid #aaaaaa;;
+    background: url(images/file.png) no-repeat 30px 15px;
+}
+.content .center .centerContent7 p a{
+    font-size: 19px;
+    line-height: 60px;
+    letter-spacing: 1px;
+    color: #900b09;
+}
+.content .center .centerContent7 p a:hover{
+    color: #ff0000;
+}
+.content .center .centerContent8 .connect1{
+    width: 450px;
+    margin-left: 110px;
+    margin-top: 40px;
+}
+.content .center .centerContent8 .connect1 a{
+    margin-right: 22px;
+    height: 30px;
+    line-height: 45px;
+}
+.content .center .centerContent8 .connect2{
+    width: 669px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.content .center .centerContent8 div p,a{
+    color: black;
+}
+.content .center .centerContent8 .connect2 p{
+    font-size: 14px;
+}
+.content .center .centerContent8 .connect2 .box1{
+    float: left;
+    width: 300px;
+    background: url(images/QRcode1.png) no-repeat 150px;
+    height: 120px;
+}
+.content .center .centerContent8 .connect2 .box2{
+    width: 300px;
+    background: url(images/QRcode2.png) no-repeat 170px;
+    height: 120px;
+    float: left;
+}
+.content .center .centerContent8 .connect2{
+    margin-top: 50px;
+    margin-left: 110px;
+}
+
