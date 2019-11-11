@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.header .box{
+    width: 1208px;
+    height: 108px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.header .box .left{
+    width: 277px;
+    height: 67px;
+    background: url(images/bg.png) no-repeat 0px -170px;
+    float: left;
+    margin-top: 21px;
+}
+.header .box .left a{
+    display: block;
+    width: 277px;
+    height: 67px;
+}
+.header .box .left:hover{
+    width: 277px;
+    height: 67px;
+    background: url(images/bg.png) no-repeat 0px -270px;
+}
+.header .box .right{
+    float: right;
+    margin-top: 42px;
+}
+.header .box .right input:nth-child(1){
+    width: 261px;
+    height: 29px;
+}
+.header .box .right input:nth-child(2){
+    height: 33px;
+    width: 30px;
+    background-color: #ae4141;
+    color: white;
+    border: none;
+}
